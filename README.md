@@ -11,7 +11,7 @@ Implementation of a Q-Learning algorithm.
 Start a server an run `index.html`.
 
 ## Example One
-Thin of following grid world / environment:
+Think of following grid world / environment:
 <br><br>
 
 ![Example One](https://github.com/moritzmitterdorfer/QLearning/blob/master/grid.png)
