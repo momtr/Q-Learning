@@ -32,6 +32,6 @@ Here, R is the Agent in the environment. Its goal is to reach the terminal state
 - -10 if he moves out of the world
 
 ### Result
-The agent is able to solve the problem in the minimum number of moves.
+The agent is able to solve the problem with the minimum number of moves.
 
 ![Result](https://github.com/moritzmitterdorfer/QLearning/blob/master/output_img.png)
