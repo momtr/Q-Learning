@@ -1,5 +1,5 @@
 # QLearning
-Implementation of a Q-Learning algorithm.
+Implementation of the Q-Learning algorithm.
 
 ## Todo
 - [x] QL - algorithm
